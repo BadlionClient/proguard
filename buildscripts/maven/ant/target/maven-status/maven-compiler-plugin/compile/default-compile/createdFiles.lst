@@ -1,0 +1,8 @@
+proguard/ant/ConfigurationElement.class
+proguard/ant/ClassPathElement.class
+proguard/ant/FilterElement.class
+proguard/ant/ConfigurationTask.class
+proguard/ant/ProGuardTask.class
+proguard/ant/ClassSpecificationElement.class
+proguard/ant/MemberSpecificationElement.class
+proguard/ant/KeepSpecificationElement.class

@@ -1,0 +1,7 @@
+proguard/retrace/ReTrace.class
+proguard/retrace/FrameInfo.class
+proguard/retrace/FrameRemapper$1.class
+proguard/retrace/FrameRemapper$MethodInfo.class
+proguard/retrace/FramePattern.class
+proguard/retrace/FrameRemapper$FieldInfo.class
+proguard/retrace/FrameRemapper.class
